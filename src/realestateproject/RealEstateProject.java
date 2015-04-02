@@ -550,7 +550,7 @@ public class RealEstateProject extends javax.swing.JFrame {
         jLabel7.setText("REAL ESTATE");
         jPanel1.add(jLabel7, new org.netbeans.lib.awtextra.AbsoluteConstraints(512, 110, -1, -1));
 
-        jLabel8.setIcon(new javax.swing.ImageIcon("C:\\Users\\samitha\\Documents\\NetBeansProjects\\RealEstateProject\\img\\MY13i.jpg")); // NOI18N
+        jLabel8.setIcon(new javax.swing.ImageIcon(getClass().getResource("/img/MY13i.jpg"))); // NOI18N
         jPanel1.add(jLabel8, new org.netbeans.lib.awtextra.AbsoluteConstraints(560, 2, -1, -1));
 
         jPanel8.setBackground(new java.awt.Color(102, 102, 102));
